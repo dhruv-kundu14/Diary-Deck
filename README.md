@@ -69,14 +69,20 @@ SYSTEM REQUIREMENT SPECIFICATION
  
 ![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/35c75048-0ac3-4cf2-87e3-254d73f5ca23)
 
- 
+ ![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/6e821658-b268-48e8-8703-80fdd5cb98c1)
+
+
+ ![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/aa96f8eb-2bd4-4cda-b5f3-2558d855a3c4)
+
+![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/9e864d36-fa10-416a-a5f3-43f853d89b46)
 
  
+![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/64212cd1-10ed-425c-8a2e-61baaff06a30)
 
  
+![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/7bb536eb-9acc-46ed-98ae-0036796cb103)
 
- 
-
+![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/dba021b4-f043-4fb7-927a-e06e6aa0c4fa)
  
 
  
@@ -90,9 +96,11 @@ SYSTEM REQUIREMENT SPECIFICATION
 IMPLEMENTATION
 
 
- 
+ ![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/209d6146-f92e-4774-89d9-2c8735177e42)
+
 
  
+![image](https://github.com/dhruv-kundu14/Diary-Deck/assets/81622271/2143c3e5-6d5a-4cf8-80c5-772684a70e66)
 
 
 
